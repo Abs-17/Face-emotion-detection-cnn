@@ -180,6 +180,11 @@ The evaluation shows a substantial train-test gap, indicating overfitting. Possi
 - Improving class-wise performance
 - Real-time inference/deployment
 
+---
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
 ## Author
 
 **Abdul Basit**
